@@ -55,4 +55,5 @@ print("矩阵加法结果：\n", c)
 print("矩阵乘法结果：\n", d)
 
 执行 np.dot(a, b) 可实现两个二维矩阵的乘法运算，执行 print() 语句可输出最终计算结果。
-我可以在 IDE 上使用我建立的虚拟环境<img src="https://raw.githubusercontent.com/dudu1-1/dev_skills/main/虚拟环境.png" width="800" alt="虚拟环境搭建截图">
+我可以在 IDE 上使用我建立的虚拟环境
+<img src="https://raw.githubusercontent.com/dudu1-1/dev_skills/main/虚拟环境.png" width="800" alt="虚拟环境搭建截图">
