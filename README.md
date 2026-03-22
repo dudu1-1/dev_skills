@@ -59,4 +59,4 @@ print("矩阵乘法结果：\n", d)
 
 我可以在 IDE 上使用我建立的虚拟环境
 
-<img src="https://github.com/dudu1-1/dev_skills/blob/main/虚拟环境.png?raw=true" width="800" alt="虚拟环境验证截图">
+<img src="https://raw.githubusercontent.com/dudu1-1/dev_skills/main/env_screenshot.png" width="800" alt="01 环境搭建的截图一">
